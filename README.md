@@ -6,7 +6,7 @@
 - 🎓 B.Tech 1st-year student with a passion for coding and technology.
 - 💻 Enthusiastic about AI, web development, and problem-solving.
 - 🚀 Currently diving into **FastAPI**.
-- 🔧 Tech Stack: **Python, JavaScript, FastAPI, MongoDB, HTML, CSS**.
+- 🔧 Tech Stack: **Python, Numpy, Pandas, JavaScript, FastAPI, MongoDB, HTML, CSS, React.js**.
 
 ### ✅ **FastAPI To-Do App**
 - A **lightweight, efficient task management** solution.
