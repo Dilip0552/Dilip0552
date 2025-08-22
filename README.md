@@ -3,9 +3,9 @@
 ## 👋 Hi, I'm Dilip Suthar!
 
 ### 💡 About Me
-- 🎓 B.Tech 1st-year student with a passion for coding and technology.
+- 🎓 B.Tech 2nd-year student with a passion for coding and technology.
 - 💻 Enthusiastic about AI, web development, and problem-solving.
-- 🚀 Currently diving into **FastAPI**.
+- 🚀 Currently diving into **AI and ML**.
 - 🔧 Tech Stack: **Python, Numpy, Pandas, JavaScript, FastAPI, MongoDB, HTML, CSS, React.js**.
 
 ### ✅ **FastAPI To-Do App**
